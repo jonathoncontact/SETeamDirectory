@@ -1,2 +1,2 @@
 Team Members:
-- Charles Clarke [https://github.com/CharlesBClarke]
+- Charles Clarke [CharlesBClarke](https://github.com/CharlesBClarke)
