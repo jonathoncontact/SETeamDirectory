@@ -1,2 +1,0 @@
-- Jonathon Tukcer, [Jonathon-Tucker](https://github.com/jonathoncontact)
-
